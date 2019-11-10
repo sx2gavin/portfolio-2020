@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: "Hi! I'm Gavin and I make games."
 description: null
-image: null
+image: assets/images/gothere.png
 author: null
 show_tile: false
 ---

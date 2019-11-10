@@ -3,15 +3,15 @@ title: Gavin
 subtitle: Luo
 email: luoxiangyu528@gmail.com
 description: Check out what I'm making now.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/forty" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Gavin Luo
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+# street_address: 1234 Somewhere Road
+# city: Nashville
+# state: TN
+# zip_code: 55555
+# country: United States of America
+phone: (519)781-5282
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
