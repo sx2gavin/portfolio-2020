@@ -2,7 +2,7 @@
 layout: post
 title: GoThere
 description: A blocky puzzle adventure game made with Unity.
-image: assets/images/pic11.jpg
+image: assets/images/banner.jpg
 permalink: /gothere/
 ---
 

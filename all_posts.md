@@ -1,10 +1,10 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
-nav-menu: true
-description: null
-image: null
+title: Game Dev Logs
+landing-title: 'Game Dev Logs'
+nav-menu: false
+description: Read more about my dev logs.
+image: assets/images/code.png
 author: null
 show_tile: false
 ---

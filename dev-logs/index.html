@@ -1,0 +1,76 @@
+---
+layout: page
+title: Game Dev Logs
+landing-title: 'Game Dev Logs'
+nav-menu: true
+description: Read more about my dev logs.
+image: assets/images/code.png
+author: null
+---
+
+<section id="banner" class="style1">
+  <div class="inner">
+    <span class="image">
+      <img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
+    </span>
+    <header class="major">
+      <h1>{{ page.title }}</h1>
+    </header>
+    <div class="content">
+      {{ page.description }}
+    </div>
+  </div>
+</section>
+
+<!-- Main -->
+<div id="main" class="alt">
+  <section id="two" class="spotlights">
+    {% for post in paginator.posts %} {% if post.title != 404 %}
+    <section>
+      <a href="{{post.url | relative_url}}" class="image">
+        <img
+          src="{{ site.baseurl }}/{{post.image}}"
+          alt=""
+          data-position="center center"
+        />
+      </a>
+      <div class="content">
+        <div class="inner">
+          <header class="major">
+            <h3>{{post.title}}</h3>
+          </header>
+          <p>
+            {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
+          </p>
+          <ul class="actions">
+            <li>
+              <a href="{{post.url | relative_url}}" class="button">Read more</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    {% endif %}{% endfor %}
+  </section>
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+    <a
+      href="{{ site.baseurl }}{{ paginator.previous_page_path }}"
+      class="previous"
+    >
+      Previous
+    </a>
+    {% else %}
+    <span class="previous">Previous</span>
+    {% endif %}
+    <span class="page_number ">
+      Page: {{ paginator.page }} of {{ paginator.total_pages }}
+    </span>
+    {% if paginator.next_page %}
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next">Next</a>
+    {% else %}
+    <span class="next ">Next</span>
+    {% endif %}
+  </div>
+</div>
