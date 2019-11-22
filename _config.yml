@@ -25,6 +25,14 @@ plugins:
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
+tile_pages:
+  - projects/go_there.md
+  - dev-logs/index.html
+
+nav_links:
+  - projects/go_there.md
+  - dev-logs/index.html
+
 # social settings
 500px_url:
 facebook_url:
