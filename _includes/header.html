@@ -1,7 +1,5 @@
 <!-- Wrapper -->
 <div id="wrapper">
-		{%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign nav_links = site.nav_links | default: default_paths -%}
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
@@ -19,9 +17,12 @@
 		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
+
+		{%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign nav_links = site.nav_links | default: default_paths -%}
 		{% for path in nav_links %}
-				{%- assign page = site.pages | where: "path", path | first -%}
-		    <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+				{%- assign link_page = site.pages | where: "path", path | first -%}
+		    <li><a href="{{ link_page.url | absolute_url }}">{{ link_page.title }}</a></li>
 		{% endfor %}
 	</ul>
 	<!-- <ul class="actions vertical">
