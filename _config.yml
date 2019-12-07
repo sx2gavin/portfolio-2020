@@ -32,6 +32,7 @@ tile_pages:
 nav_links:
   - projects/go_there.md
   - dev-logs/index.html
+  - about.md
 
 # social settings
 500px_url:
