@@ -22,6 +22,10 @@
 		<header class="major">
 			<h1>{{ page.title }}</h1>
 		</header>
+		<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+			{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+			{{ page.date | date: date_format }}
+		</time>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		<p>{{ content }}</p>
 	</div>

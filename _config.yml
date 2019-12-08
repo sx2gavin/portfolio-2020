@@ -15,7 +15,7 @@ phone: (519)781-5282
 
 # post settings
 show_excerpts: true
-paginate: 3
+paginate: 10
 paginate_path: "/dev-logs/page:num/"
 
 plugins:
