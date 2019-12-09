@@ -3,7 +3,7 @@ title: Gavin
 subtitle: Luo
 email: luoxiangyu528@gmail.com
 description: Check out what I'm making now.
-baseurl: # the subpath of your site, e.g. /blog
+# baseurl: # the subpath of your site, e.g. /blog
 url: gavinluo.com # the base hostname & protocol for your site
 author: Gavin Luo
 # street_address: 1234 Somewhere Road
