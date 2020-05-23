@@ -48,6 +48,7 @@ twitter_url:
 
 # build settings
 markdown: kramdown
+future: true
 
 sass:
   style: compressed

@@ -21,14 +21,44 @@ Once you've created this file, add a front matter header at the top of the file,
 ```
 ---
 layout: post
-title:  "How to Add Images"
-date:   2019-10-13 20:45:00 -0500
-categories: [jekyll]
+title:  How to Add Images
+image: assets/images/portals/portals-view.png
+date: 2019-10-13 20:45:00 -0500
 ---
 ```
 Remember to update all the necessary fields.
 
 After that, you can start writing the content of the blog post. Once you are done, save the file and see the change in the browser.
+
+## How to Change Banner Image
+Go to **./_sass/layout/_banner.scss**, on line 11:
+```
+		@include vendor('background-image', 'url("../images/portals/portals-view.png")');
+```
+
+Change the url to the image you want to use as the banner.
+
+# Markdown Format Cheatsheet
+## Image:
+```
+![alt-text]({{ site.baseurl }}/assets/images/...)
+```
+
+## Link:
+```
+[I'm an inline-style link](https://www.google.com)
+```
+
+## Bold:
+```
+**I'm bold**
+```
+
+## Italic:
+```
+_I'm italic_
+*I'm italic*
+```
 
 # Forty - Jekyll Theme
 
