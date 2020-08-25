@@ -4,7 +4,7 @@ subtitle: Luo
 email: luoxiangyu528@gmail.com
 description: Check out what I'm making now.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author: Gavin Luo
 # street_address: 1234 Somewhere Road
 city: Toronto
@@ -27,11 +27,13 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 tile_pages:
-  - dev-logs/index.html
+  - pages/professional_work.md
+  - pages/personal_projects.md
   - projects/go_there.md
 
 nav_links:
-  - projects/go_there.md
+  - pages/professional_work.md
+  - pages/personal_projects.md
   - dev-logs/index.html
   - about.md
 
