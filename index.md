@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Gavin Luo's Portfolio
-landing-title: "Hi! I'm Gavin and I make games."
+landing-title: "Hi! I'm Gavin and I make games"
 description: null
 image: null
 author: null

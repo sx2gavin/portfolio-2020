@@ -2,7 +2,7 @@
 title: Gavin
 subtitle: Luo
 email: luoxiangyu528@gmail.com
-description: Check out what I'm making now.
+description: Check out what I'm working on right now.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Gavin Luo
@@ -24,18 +24,6 @@ plugins:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
-
-tile_pages:
-  - pages/professional_work.md
-  - pages/personal_projects.md
-  - projects/go_there.md
-
-nav_links:
-  - pages/professional_work.md
-  - pages/personal_projects.md
-  - dev-logs/index.html
-  - about.md
 
 # social settings
 500px_url:
