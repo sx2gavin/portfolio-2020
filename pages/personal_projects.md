@@ -19,9 +19,9 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Portals</h3>
+					<h3>Portals - Tech Demo</h3>
 				</header>
-				<p>I saw a video on YouTube by [Sebastian Lague](https://www.youtube.com/user/Cercopithecan) called [Coding Adventure: Portals](https://www.youtube.com/watch?v=cWpFZbjtSQg), I thought the topic was really interesting so I've decided to follow along and try to implement my own version of the portals. Computer Graphics and rendering are always a big interest of mine so I wanted to use this opportunity to learn about rendering in general, as well as some Shader coding in Unity. In this article I've documented all the steps I did in order to achieve the same portal effects in the video. I will also have a link to my Github repo here: [Portals](https://github.com/sx2gavin/Portals) in case anybody wants to check it out.</p>
+				<p>I used Unity to recreate the portal effects from the famous Portal series. You can see through as well as walk through the portals. </p>
 				<ul class="actions">
 					<li><a href="../2020/05/23/portals.html" class="button">Learn more</a></li>
 				</ul>
