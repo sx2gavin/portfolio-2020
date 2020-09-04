@@ -4,6 +4,8 @@ title: GoThere!
 description: A blocky puzzle adventure game made with Unity.
 image: assets/images/gothere/title.png
 permalink: /gothere/
+show_tile: false
+nav-menu: false
 ---
 # Introduction
 
