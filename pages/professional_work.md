@@ -4,7 +4,7 @@ title: Professional Work
 description: Here is a list of titles that I've worked on professionally.
 image: assets/images/wopp/peppa-logo.png
 nav-menu: true
-show_tile: true
+show-tile: true
 ---
 
 <!-- Main -->
