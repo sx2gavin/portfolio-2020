@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Gavin Luo's Portfolio
+title: Gavin Luo - Game Developer Portfolio
 landing-title: "Hi! I'm Gavin and I am a Game Developer."
 description: null
 image: null

@@ -1,10 +1,10 @@
 # site settings
-title: Gavin
-subtitle: Luo
+title: Gavin Luo
+subtitle: Game Developer Portfolio
 email: luoxiangyu528@gmail.com
-description: Check out what I'm working on right now.
+description: Thanks for checking out my game developer portfolio. I showcase my professional game development work and personal passion projects in this portfolio.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://gavinluo.com" # the base hostname & protocol for your site
 author: Gavin Luo
 # street_address: 1234 Somewhere Road
 city: Toronto
@@ -21,6 +21,7 @@ paginate_path: "/dev-logs/page:num/"
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
