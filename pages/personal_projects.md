@@ -41,22 +41,5 @@ show_tile: true
 			</div>
 		</div>
 	</section>
-
-	<section>
-		<a href="codename.html" class="image">
-			<img src="../assets/images/codename/card.png" alt=""/>
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Bible Codename (Simplified Chinese Version)</h3>
-				</header>
-				<p>The famous board game Codename, using Bible terminologies, made in Unity.</p>
-				<ul class="actions">
-					<li><a href="codename.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
 </section>
 
