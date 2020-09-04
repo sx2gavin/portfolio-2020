@@ -4,7 +4,7 @@ title: Personal Projects
 description: Here is a list of projects that I've worked on personally.
 image: assets/images/portals/portals-view.png
 nav-menu: true
-show_tile: true
+show-tile: true
 ---
 
 <!-- Two -->

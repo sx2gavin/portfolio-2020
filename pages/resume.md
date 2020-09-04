@@ -4,7 +4,7 @@ title: Resume
 description:
 image: assets/images/code.png
 nav-menu: true
-show_tile: true
+show-tile: true
 ---
 
 

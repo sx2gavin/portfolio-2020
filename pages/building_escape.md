@@ -4,8 +4,7 @@ title: Building Escape - Tech Demo
 description: Building Escape is a tech demo made in Unreal Engine 4.
 image: assets/images/buildingescape/room.png
 video: https://www.youtube.com/embed/KYLty_B-mXw?autoplay=1&controls=0
-nav-menu: false
-show_tile: true
+show-tile: true
 ---
 
 Building Escape is a tech demo I created in Unreal Engine 4. It is a dungeon puzzle game that requires the player to solve the hidden puzzle and escape the dungeon. I used [Medieval Dungeon](https://www.unrealengine.com/marketplace/en-US/product/a5b6a73fea5340bda9b8ac33d877c9e2) asset package from Unreal Engine Marketplace to create this level.
