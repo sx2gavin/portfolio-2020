@@ -6,8 +6,8 @@ permalink: /about/
 nav-menu: true
 ---
 
-Hi, I'm Gavin. Thanks for visiting my personal website. I'm really interested in game development, computer graphics and computer programming in general, so this is where I share a lot of what I've worked on and am working on right now. If you are interested in game development as well then good for you! You've come to the right place! 
+Hi, I'm Gavin. Thanks for visiting my game development portfolio website. I'm really interested in game development, computer graphics and computer programming in general, so this is where I share a lot of what I've worked on and am working on right now.
 
-I got my Bachelor of Computer Science from University of Waterloo back in 2015 and since than I've been working as a software developer as my full-time job. But I have been making some games and small projects using Unity on the side. 
+I got my Bachelor of Computer Science Degree from University of Waterloo back in 2015 and since then I worked as a software developer for four years, before making the transition to game development industry. I learnt both Unity3D game engine and Unreal Engine 4 in my spare time and now I am working full-time as a Unity Developer. I am still learning new things and building my own prototypes in my spare time and I will be sharing my work in this portfolio.
 
-If you would love to connect with me to talk about game development and stuff I would be happy to! Just connect me on [Linkedin](https://www.linkedin.com/in/xiangyugavinluo/) or send me an email at [luoxiangyu528@gmail.com](mailto:luoxiangyu528@gmail.com). Cheers and happy hacking!
+Feel free to connect me on [Linkedin](https://www.linkedin.com/in/xiangyugavinluo/). Thanks again for visiting my website and have a great day!
