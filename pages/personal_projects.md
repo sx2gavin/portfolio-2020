@@ -2,13 +2,29 @@
 layout: landing
 title: Personal Projects
 description: Here is a list of projects that I've worked on personally.
-image: assets/images/portals/portals-view.png
+image: assets/images/toontank/explosion-3.png
 nav-menu: true
 show-tile: true
 ---
 
 <!-- Two -->
 <section id="two" class="spotlights">
+	<section>
+		<a href="toon-tank.html" class="image">
+			<img src="../assets/images/toontank/toontanktitle.png" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Toon Tank</h3>
+				</header>
+				<p>Toon Tank is an arcade style tank combat game. You control a little tank to take on missile-shooting enemy turrets. You goal is to destroy all the enemies. It's simple yet satisfying to play!</p>
+				<ul class="actions">
+					<li><a href="toon-tank.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section>
 		<a href="building_escape.html" class="image">
 			<img src="../assets/images/buildingescape/room.png" alt="" data-position="center center" />
