@@ -3,7 +3,7 @@ layout: video
 title: Paragon Shooter - Tech Demo
 description: Paragon Shooter is a 3rd person shooter game demo made in Unreal Engine 4.
 image: assets/images/paragonshooter/paragonshooter-thumbnail.png
-video: https://www.youtube.com/embed/oFchVfkBsvI?autoplay=1&controls=0
+video: https://www.youtube.com/embed/oFchVfkBsvI?controls=0
 show-tile: true
 ---
 

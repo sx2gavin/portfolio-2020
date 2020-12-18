@@ -3,7 +3,7 @@ layout: video
 title: Building Escape - Tech Demo
 description: Building Escape is a tech demo made in Unreal Engine 4.
 image: assets/images/buildingescape/room.png
-video: https://www.youtube.com/embed/KYLty_B-mXw?autoplay=1&controls=0
+video: https://www.youtube.com/embed/KYLty_B-mXw?controls=0
 show-tile: false
 ---
 
