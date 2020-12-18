@@ -4,7 +4,7 @@ title: Toon Tank
 description: Toon Tank is an arcade style tank combat game I made in Unreal Engine 4.
 image: assets/images/toontank/explosion-3.png
 video: https://www.youtube.com/embed/KD4ZfNFpEHk
-show-tile: true
+show-tile: false
 ---
 
 ![title]({{ site.baseurl }}/assets/images/toontank/toontanktitle.png)

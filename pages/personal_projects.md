@@ -10,6 +10,22 @@ show-tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="paragon-shooter.html" class="image">
+			<img src="../assets/images/paragonshooter/paragonshooter-thumbnail.png" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Paragon Shooter</h3>
+				</header>
+				<p>Paragon Shooter is a 3rd person shooter game demo I made in Unreal Engine 4. </p>
+				<ul class="actions">
+					<li><a href="paragon-shooter.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="toon-tank.html" class="image">
 			<img src="../assets/images/toontank/toontanktitle.png" alt="" data-position="center center" />
 		</a>
