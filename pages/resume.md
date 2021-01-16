@@ -15,10 +15,10 @@ show-tile: true
         <div class="inner">
             <div class="row">
                 <div class="4u">
-                    <h2 id="content">Xiangyu(Gavin) Luo</h2>
+                    <h2 id="content">Gavin Luo</h2>
                 </div>
                 <div class="8u">
-                    <p style="text-align:right;">Bachelor of Computer Science, Honours, Co-op, University of Waterloo<br>
+                    <p style="text-align:right;">
                     Portfolio: <a href="https://gavinluo.com">https://gavinluo.com</a><br>
                     github: <a href="https://github.com/sx2gavin">https://github.com/sx2gavin</a><br>
                     Email: luoxiangyu528@gmail.com</p>
@@ -29,20 +29,48 @@ show-tile: true
                 <div class="4u">
                     <h2>SKILLS</h2>
                 </div>
-                <div class="2u">
-                    <b>Production Quality</b><br>
-                    <b>Frameworks</b><br>
-                    <b>IDE</b><br>
-                    <b>VCS</b><br>
-                </div>
-                <div class="6u">
-                    C++(11, Unreal), C#(.NET, Unity), Javascript, Typescript, Bash script<br>
-                    Unity, Unreal, Microsoft .NET framework, node.js, Angular<br>
-                    Visual studio, VS code, Vim, XCode<br>
-                    Git, Subversion<br>
+                <div class="8u">
+                    <ul>
+                        <li>Experienced C++(6 years) and C#(5 years) programming skills, strong object oriented programming knowledge.</li>
+                        <li>Hands on experience with Unreal Engine 4 and Unity3D, familiar with both engines’ workflows.</li>
+                        <li>Have extensive experience integrating 3D models, animations, textures and audio clips to game engines.</li>
+                        <li>Programmed various gameplay systems: character movement, AI.</li>
+                        <li>Solid graphics programming background: created a ray-tracing engine using C++.</li>
+                        <li>Strong Mathematics foundations: Linear Algebra, Matrix.</li>
+                    </ul>
                 </div>
             </div>
-            <hr />
+            <div class="row">
+                <div class="4u">
+                    <h2>PROJECT EXPERIENCE</h2>
+                </div>
+                <div class="8u">
+                    <b><i>"Paragon Shooter"</i>, AI/Gameplay Programmer</b><br>
+                    2020<br>
+                    A third-person shooter game, similar to Warframe, made in UE4<br>
+                    <ul>
+                        <li>Integrated character skeletal meshes and set up animation blueprint.</li>
+                        <li>Implemented enemy AI using Behavior Tree/Blackboard.</li>
+                        <li>Programmed character movement system, pickup system, weapon systems and etc in C++ and extended in Blueprint.</li>
+                        <li>Developed game architecture and core game loop.</li>
+                    </ul>
+                    <b><i>"Toon Tank"</i>, Gameplay Programmer</b><br>
+                    2020<br>
+                    An arcade style tank battle game, made in UE4<br>
+                    <ul>
+                        <li>Implemented tank movement, camera control, projectile and damage systems.</li>
+                        <li>Designed and implemented simple particle effects.</li>
+                        <li>Integrated 3D models and sound effects.</li>
+                    </ul>
+                    <b><i>"Building Escape"</i>, Level Designer and Gameplay Programmer</b><br>
+                    2020<br>
+                    A room escape puzzle game, made in UE4<br>
+                    <ul>
+                        <li>Developed first-person movement and object manipulation system.</li>
+                        <li>Designed and arranged the entire level.</li>
+                    </ul>
+                </div>
+            </div>
             <div class="row">
                 <div class="4u">
                     <h2>WORK EXPERIENCE</h2>
@@ -53,30 +81,20 @@ show-tile: true
                     Toronto, ON (Jan 2020 - PRESENT)<br>
                     <ul>
                         <li>Implemented new game features for World of Peppa Pig app using Unity. </li>
-                        <li>Developed several prefab systems that can be reused across multiple game modes in World of Peppa Pig app.</li>
-                        <li>Detected performance issues of the app using Unity’s profiler and optimized the app to make sure that it’s running smoothly on low-end mobile devices.</li>
                     </ul>
                     <b>Software Developer</b><br>
                     Toronto, ON (Apr 2019 - Dec 2019)<br>
                     <ul>
-                        <li>Utilized gRPC framework to develop server-client network communication protocols.</li>
-                        <li>Developed .NET prototypes for the team to experiment with new ideas for solving complicated problems between the server and client.</li>
-                        <li>Developed an Angular application using Typescript to create a dashboard for an AI/ML project.</li>
+                        <li>Developed web applications to help with VR development projects.</li>
                     </ul>
                     <h3>Rocscience</h3>
                     <b>Software Developer</b><br>
                     Toronto, ON (Nov 2015 - Apr 2019)<br>
                     <ul>
-                        <li>Team lead for developing an internal C# desktop application to visualize rock and soil lab data. This tool provided an easy user interface to test and verify new rock and soil models.</li>
-                        <li>Participated in designing and developing new features in several company’s core commercial 2D and 3D modeling software using C# and C++.</li>
-                        <li>Implemented reusable modules to be used in multiple products to reduce development cost.</li>
-                        <li>Applied linear algebra knowledge such as matrix multiplication to solve complicated 2D and 3D geometry problems.</li>
-                        <li>Introduced and implemented code review procedure to help the team to improve code quality.</li>
-                        <li>Git version control system lead. Introduced and migrated company code base to Git repositories.</li> 
+                        <li>Developed Desktop applications using C++ and C#.</li>
                     </ul>
                 </div>
             </div>
-            <hr />
             <div class="row">
                 <div class="4u">
                     <h2>EDUCATION</h2>
@@ -85,11 +103,15 @@ show-tile: true
                     <h3>University of Waterloo</h3>
                     <b>Bachelor of Computer Science, Honours, Co-op</b><br>
                     Waterloo, ON (Sep 2010 - Aug 2015)<br>
-                    <b>Awards:</b> University of Waterloo Merit Scholarship(for exceptional academic achievement in high school), Rene Descartes Scholarship.<br>
-                    <b>Courses:</b> Object-Oriented Software Development, Operating System, Algorithms, Numerical Computation, User Interface, Computer Graphics.<br>
-                    <hr />
-                    <h3>Udemy</h3>
-                    <b>Courses:</b> Complete C# Unity Developer 2D, Unreal Engine C++ Developer: Learn C++ and Make Video Games.
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="4u">
+                    <h2>FAVORITE GAMES</h2>
+                </div>
+                <div class="8u">
+                    Factorio, Tomb Raider, The Witcher 3, RDR2, Monster Hunter World, Far Cry 3, Sakiro
                 </div>
             </div>
         </div>
